@@ -4,5 +4,9 @@ This repo includes demonstration data, segmented state variables and graphs, and
 
 **Note**- The demonstration data ([memory](Memory)) is in .pkl file format. To read the file refer to this [code](Memory/git_data.py). 
 
+## Pick-and-Place
+
+![](/Segmentation_graph/Segmented_graph_Cube.png)
+![](/Segmented_state_Variables/P&P.png)
 
 
