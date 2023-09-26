@@ -9,7 +9,7 @@ This repo includes demonstration data, segmented state variables and graphs, and
 ## Pick-and-Place
 ![](/Segmentation_graphs/Segmented_graph_Cube.png)
 ![](/Segmented_state_Variables/P&P.png)
-<img src=/Generated_BTs/pick-and-place.png width="480">
+<img src=/Generated_BTs/pick-and-place.png width="800">
 ![](/Generated_BTs/pick-and-place.png)
 
 ## Insert
