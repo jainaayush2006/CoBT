@@ -35,6 +35,6 @@ This repo includes demonstration data, segmented state variables and graphs, and
 ![](/Generated_BTs/kitting.png)
 
 ## Drawer Pick-and-Place 
-![](/Generated_BTs/kitting.png)
+![](/Generated_BTs/drawer_pp.png)
 
 
