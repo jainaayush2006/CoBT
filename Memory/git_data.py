@@ -51,7 +51,7 @@ def Data_segmentation(memory):
     print("Data prepared")
     return linear_V_nz, linear_V, Grip
 
-object = 'Bottle'
+object = 'Insert'
 path = "/home/imr/CoBT/Memory/Memory_"+object+".pkl"
 with open(path, 'rb') as f:
     memory = pickle.load(f)
