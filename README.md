@@ -9,33 +9,32 @@ This repo includes demonstration data, segmented state variables and graphs, and
 ## Pick-and-Place
 ![](/Segmentation_graphs/Segmented_graph_Cube.png)
 ![](/Segmented_state_Variables/P&P.png)
-<img src=/Generated_BTs/pick-and-place.png width="800">
-![](/Generated_BTs/pick-and-place.png)
+<img src=/Generated_BTs/pick-and-place.png width="700">
 
 ## Insert
 ![](/Segmentation_graphs/Segmented_graph_Insert.png)
 ![](/Segmented_state_Variables/Insert.png)
-![](/Generated_BTs/insertion.png)
+<img src=/Generated_BTs/insertion.png width="700">
 
 ## Erasing
 ![](/Segmentation_graphs/Segmented_graph_Duster.png)
 ![](/Segmented_state_Variables/Erasing.png)
-![](/Generated_BTs/duster.png)
+<img src=/Generated_BTs/duster.png width="700">
 
 ## Drawer
 ![](/Segmentation_graphs/Segmented_graph_Handle.png)
 ![](/Segmented_state_Variables/Drawer.png)
-![](/Generated_BTs/drawer.png)
+<img src=/Generated_BTs/drawer.png width="700">
 
 ## Pouring
 ![](/Segmentation_graphs/Segmented_graph_Bottle.png)
 ![](/Segmented_state_Variables/Pouring.png)
-![](/Generated_BTs/pouring.png)
+<img src=/Generated_BTs/pouring.png width="700">
 
 ## Kitting
-![](/Generated_BTs/kitting.png)
+<img src=/Generated_BTs/kitting.png width="700">
 
 ## Drawer Pick-and-Place 
-![](/Generated_BTs/drawer_pp.png)
+<img src=/Generated_BTs/drawer_pp.png width="700">
 
 
