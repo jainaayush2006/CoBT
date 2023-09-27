@@ -3,7 +3,7 @@
 This repo includes demonstration data, segmented state variables and graphs, and generated BTs for all the 7 tasks discussed in the paper. Furthermore, the responses from the conducted user study are [here](User-study_Responses).
 
 **Note**- 
-* The demonstration data ([memory](Memory)) is in .pkl file format. To read the file refer to this [code](Memory/git_data.py). 
+* The demonstration data ([memory](Memory)) is in .pkl file format. To read the file refer to this [code](Memory/reader.py). 
 * In the segmented variables table ([here](Segmented_state_Variables)), red color text represents the effect conditions that are added to the BT, and blue color text represents the pre-conditions for the the next action.
 * The codes for segmentation and BT generation will be released upon acceptance.
 
