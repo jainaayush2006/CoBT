@@ -2,7 +2,7 @@
 
 This repo includes demonstration data, segmented state variables and graphs, and generated BTs for all the 7 tasks discussed in the paper. Furthermore, the responses from the conducted user study are [here](User-study_Responses).
 
-:point_right: For performance evaluation, several trials were conducted for each task, where the target and goal object’s start pose are changed within **80cmx40cm** (typo in the paper) area on the table between trials.
+:point_right: For performance evaluation, several trials were conducted for each task, where the target and goal object’s start pose are changed within **_80cmx40cm (typo in the paper)_** area on the table between trials.
 
 **Note**- 
 * The demonstration data ([memory](Memory)) is in .pkl file format. To read the file refer to this [code](Memory/reader.py). 
