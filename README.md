@@ -1,7 +1,9 @@
 # CoBT: Collaborative Programming of Behaviour Trees from One Demonstration for Robot Manipulation
 
 Paper link: [arxiv.org/abs/2404.05870v1](https://arxiv.org/abs/2404.05870v1)
+
 Short videos: [link](https://youtu.be/uz768FNIAgM)
+
 Presentation: [link](https://youtu.be/qKNqNqpKtuU)
 
 This repo includes demonstration data, segmented state variables and graphs, and generated BTs for all the 7 tasks discussed in the paper. Furthermore, the responses from the conducted user study are [here](User-study_Responses).
